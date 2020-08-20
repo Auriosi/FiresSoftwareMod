@@ -3,8 +3,8 @@
 Repo for open-source parts of Fire's Software Mod
 
 # Table of Contents
-[SoftwareTypes]()
-[Name Generators]()
+- [SoftwareTypes](https://github.com/Auriosi/FiresSoftwareMod#softwaretypes)
+- [Name Generators](https://github.com/Auriosi/FiresSoftwareMod#name-generators)
 
 ## SoftwareTypes
 Whenever I get the chance to do so, I will publish already available TyD SoftwareTypes to this repo for anyone to modify and share issues about. Unreleased files won't be publicly available, and will only be accessible by those who I choose to be testers.
