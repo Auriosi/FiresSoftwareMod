@@ -1,0 +1,17 @@
+-start(base,base,base,pre)
+-pre(base)
+Ultimate
+File
+Super
+The
+-base(base2)
+Files
+Manager
+Ultimate
+Super
+Best
+Explorer
+-base2(stop)
+Explorer
+Manager
+Management
